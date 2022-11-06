@@ -2,6 +2,11 @@
 *.samsclub.com
 *.salesforce.com
 *.uber.com
+*.apple.com
+*.icloud.com
+*.att.com
+*.starbucks.com
+*.costco.com
 *.acorns.com
 *.amexgbt.com
 *.amexglobalbusinesstravel.com
