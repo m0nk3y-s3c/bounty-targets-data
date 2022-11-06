@@ -1,3 +1,7 @@
+*.walmart.com
+*.samsclub.com
+*.salesforce.com
+*.uber.com
 *.acorns.com
 *.amexgbt.com
 *.amexglobalbusinesstravel.com
